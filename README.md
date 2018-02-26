@@ -1,2 +1,3 @@
 # hello-world
-My first GitHub project!
+
+My name is Ayrlon and I want to learn how to code my own computer games and databases.
